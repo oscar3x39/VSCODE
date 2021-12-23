@@ -1,4 +1,3 @@
-# VSCODE
 ### keybindings.json
 ```
 [
