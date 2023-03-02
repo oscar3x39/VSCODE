@@ -1,5 +1,7 @@
 ### phpstorm
 ```
+Tools > Create Command-Line-Launcher
+/usr/local/bin/phpstorm
 ```
 
 ### vim color
